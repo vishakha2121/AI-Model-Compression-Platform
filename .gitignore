@@ -15131,7 +15131,7 @@ logs/
 # API keys / secrets
 secrets/
 keys/
-*.pem
+.pem
 *.key
 
 # ============================
